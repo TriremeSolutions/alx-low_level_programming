@@ -15,5 +15,10 @@ The output file should be named the same as the C file, but with the extension .
 The C file name will be saved in the variable $CFILE
 4-puts.c: prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 
+The function puts is used
+printf is not used
+Program ends with the value 0
+
+
 5-
 
