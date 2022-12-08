@@ -13,6 +13,7 @@ The output file should be named the same as the C file, but with the extension .
 3-name: compiles a C file and creates an executable named cisfun.
 
 The C file name will be saved in the variable $CFILE
+
 4-puts.c: prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
 
 The function puts is used
@@ -20,5 +21,10 @@ printf is not used
 Program ends with the value 0
 
 
-5-
+5-printf.c: prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+
+The function printf is used
+The function puts is not to be used
+program returns 0
+program should compile without warning when using the -Wall gcc option
 
