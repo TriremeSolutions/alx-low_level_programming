@@ -28,3 +28,7 @@ The function puts is not to be used
 program returns 0
 program should compile without warning when using the -Wall gcc option
 
+
+6-size.c: prints the size of various types on the computer it is compiled and run on.
+
+
