@@ -10,7 +10,7 @@ int main(void)
 	long int n, factor;
 
 	n = 612852475143;
-	for (fp = 2; factor <= n; factor++)
+	for (factor = 2; factor <= n; factor++)
 	{
 		if (n % factor == 0)
 		{
